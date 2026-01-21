@@ -15,7 +15,7 @@ Everything worked correctly once I switched my email address to my BYU one. I ha
 
 ## Caddy
 
-I had a little confusion on how to edit the Caddy and save changes in the console window but after a little investigation I figured it out. The instructions were very useful.[instruction](https://github.com/webprogramming260/.github/blob/main/profile/webServers/https/https.md).
+I had a little confusion on how to edit the Caddy and save changes in the console window but after a little investigation I figured it out. The instructions were very useful [instruction](https://github.com/webprogramming260/.github/blob/main/profile/webServers/https/https.md).
 
 ## HTML
 
