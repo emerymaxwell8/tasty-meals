@@ -19,7 +19,23 @@ I had a little confusion on how to edit the Caddy and save changes in the consol
 
 ## HTML
 
-Practicing with the CodePen helped me learn the difference between the different structural elements. I want to make sure to remember to use the div and the nav elements to divide my text into smaller units. I also find the input elements super cool and will be referring to the CodePen to help include those elements into my startup.
+Practicing with the CodePen helped me learn the difference between the structural elements. I want to make sure to remember to use the div and the nav elements to divide my text into smaller units. I also find the input elements super cool and will be referring to the CodePen to help include those elements into my startup.
+
+Creating a SVG image was really interesting. I learned that it works on a grid system and thats what allows it to create individual shapes. It can get super complex but I'm excited to see how I will be able to animate the heart below later in the creation process.
+
+<svg width="15" height="15" viewBox="0 0 120 110" xmlns="http://www.w3.org/2000/svg">
+<path
+    d="M60 100
+    C60 100, 10 70, 10 35
+    C10 15, 30 5, 45 20
+    C55 30, 60 40, 60 40
+    C60 40, 65 30, 75 20
+    C90 5, 110 15, 110 35
+    C110 70, 60 100, 60 100 Z"
+    fill="pink"/>
+</svg>
+
+HTML was pretty simple to think through but sometimes feels a little messy. It also can be hard sometimes to visualize how the application will look in the future with just the structual elements. But I feel pretty confident in how my structure turned out.
 
 ## CSS
 
